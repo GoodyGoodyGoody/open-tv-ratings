@@ -88,6 +88,7 @@ Open ratings will be gamed, so the server decides what counts.
 ## What you get back
 
 - **The ratings themselves:** a free API, a daily download (JSON and CSV) and an MCP for AI assistants. See broadcastatlas.com/developers.
+- **Popularity order.** Sort your channel list the way Broadcast Atlas does: by minutes watched, worldwide or for your viewer's country. Load our ready-sorted playlist, or re-order your own list by matching each channel's iptv-org ID (the `tvg-id` in most IPTV playlists) against the ratings API or the daily file. The more apps that send minutes, the better this order gets for everyone.
 - **The catalog:** stable channel IDs, logos and stream health, so your users hit fewer dead channels.
 - **Credit:** the ratings name the apps that contribute (unless you'd rather not be named).
 
